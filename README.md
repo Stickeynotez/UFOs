@@ -21,6 +21,7 @@ The same can be done with city, state, country, or shape of the UFO.
 
 # Summary
 Overall, the design of this webpage is extremely simple, yet effective for its intended use. The primary drawback with this webpage however, is the data attached to it. The dataset has built in ambiguity, also, the City, the States abbreviations and Country abbreviation are lower case. The Duration is not a consistent format of time (varying from 5 mins. to 13'Minutes' to "downtown")
+
 ![image](https://user-images.githubusercontent.com/99559096/168429734-ac796b25-c967-4e3b-8e5c-830e5e7a0dc0.png)
 ![image](https://user-images.githubusercontent.com/99559096/168429739-a6933203-7e10-40f1-b7c2-2d22bc6e47b4.png)
 These data entries are from everyday forum users, causing the lack of clean data. 
